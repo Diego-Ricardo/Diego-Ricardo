@@ -1,5 +1,5 @@
 ## Olá eu sou o Diego Ricardo
-## Sou um aprendiz de programação e tecnologia!
+## Sou um eletrotécnico aprendendo programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/Diego-Ricardo">
